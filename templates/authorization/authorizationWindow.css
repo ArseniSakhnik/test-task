@@ -57,8 +57,16 @@ input[type="color"]:focus,
     outline: 0 none;
 }
 
+.form-input {
+    border: 2px solid rgb(229, 229, 229);
+}
+
 .form-input:focus {
-    border:2px solid rgb(250, 210, 100);
+    border:2px solid rgb(240, 185, 11);
+}
+
+.form-input:hover {
+    border:2px solid rgb(194, 198, 204);
 }
 
 
